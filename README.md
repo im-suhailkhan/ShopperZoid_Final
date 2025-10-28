@@ -5,3 +5,6 @@ How can a customer get the best deal of a product/service she wants to buy?
 Instead of being an active buyer, how can a customer be a passive buyer?
 Our platform shopper-zoid can be described as a platform where people can get their desired product without doing extensive research. 
 
+Here is the High-level System design of the project. <img width="783" height="425" alt="image" src="https://github.com/user-attachments/assets/2e912419-3229-4dd4-9ef0-89a31ff0fe27" />
+
+
